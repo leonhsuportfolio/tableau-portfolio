@@ -6,9 +6,10 @@ Data visualization projects by **Leon Hsu**, built with Tableau. Click any previ
 ---
 
 ## 1. Check the Forecast, Not the Calendar
-### Halloween trick-or-treat turnout, 2008-2025
+### [Halloween trick-or-treat turnout, 2008-2025](https://public.tableau.com/views/HalloweenProject_17934851978400/HalloweenDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[![Halloween turnout dashboard](halloween-turnout/preview.png)](YOUR_TABLEAU_PUBLIC_URL)
+<img width="1003" height="800" alt="image" src="https://github.com/user-attachments/assets/366ec220-95d3-4c5e-b798-4f74a693e667" />
+
 
 Does weather or the weekday drive Halloween turnout? Each dot is one Halloween (2020 excluded because of COVID).
 
@@ -22,9 +23,9 @@ Does weather or the weekday drive Halloween turnout? Each dot is one Halloween (
 ---
 
 ## 2. Where U.S. Data Centers Are Built, and Where They Face Pushback
-### MakeoverMonday
+### [U.S. data centers dashboard](https://public.tableau.com/views/Makeover2_17934879308070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[![U.S. data centers dashboard](us-data-centers/preview.png)](YOUR_TABLEAU_PUBLIC_URL)
+<img width="1003" height="800" alt="image" src="https://github.com/user-attachments/assets/d54d8e2e-415c-4c92-a4fb-1815d9aeeec6" />
 
 Virginia, Texas, and Georgia hold 52% of 1,621 tracked U.S. data centers.
 
