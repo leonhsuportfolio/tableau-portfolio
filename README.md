@@ -1,7 +1,7 @@
 # Tableau-portfolio
 Data visualization projects by **Leon Hsu**, built with Tableau. Click any preview to open the live, interactive dashboard on Tableau Public.
 
-**Skills shown:** data cleaning, calculated fields, table calculations, trend lines and reference lines, map visualization, dashboard design, and data storytelling.
+**Skills shown:** data cleaning, calculated fields, table calculations, map visualization, dashboard design, and data storytelling.
 
 ---
 
