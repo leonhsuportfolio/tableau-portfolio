@@ -38,9 +38,9 @@ Virginia, Texas, and Georgia hold 52% of 1,621 tracked U.S. data centers.
 ---
 
 ## 3. The Great Recession, State by State
-### Monthly unemployment rate by state, Jan 2005 to Dec 2010
+### [Monthly unemployment rate by state, Jan 2005 to Dec 2010](https://public.tableau.com/shared/JGPQQKKM3?:display_count=n&:origin=viz_share_link)
 
-[![Great Recession map](great-recession/preview.png)](YOUR_TABLEAU_PUBLIC_URL)
+<img width="1920" height="1052" alt="image" src="https://github.com/user-attachments/assets/09a62704-0bcd-4c2e-9689-83245a5b9482" />
 
 An animated map with a month slider that shows how the recession spread across the country: calm, then shock, then uneven recovery.
 
@@ -49,13 +49,11 @@ An animated map with a month slider that shows how the recession spread across t
 - By Dec 2010, Michigan had eased from its 14.6% peak to 11.3%, but Nevada (13.6%) and California (12.2%) were stuck near their highs.
 - The Dakotas and Nebraska never topped 5.1%.
 
-**Data:** YOUR_DATA_SOURCE
-
 ---
 
 ## 4. 2024 Taiwan Presidential Election
-### Minute-by-minute vote count replay, January 13, 2024
+### [Taiwan Presidential Election, 2024](https://public.tableau.com/views/B09610001Assignment1/2024ElectionDashBoard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[![Taiwan election dashboard](taiwan-election-2024/preview.png)](YOUR_TABLEAU_PUBLIC_URL)
+<img width="1281" height="726" alt="image" src="https://github.com/user-attachments/assets/791375b2-ffe5-4643-8566-50f0fcf89307" />
 
 An interactive replay of election night. A racing bar chart shows each ticket's running vote total, an area chart tracks votes tallied per minute (peaking around 7 PM), and a bubble chart breaks ballots down by district, colored by county. Use the time slider to watch the lead build.
